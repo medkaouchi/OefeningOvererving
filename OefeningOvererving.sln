@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningOvererving", "OefeningOvererving\OefeningOvererving.csproj", "{3F8DD2C3-DB99-41BE-A82C-3CF1CB4F6D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp\BankApp.csproj", "{0693D833-6263-42F9-B4AA-1D58787A52E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8DD2C3-DB99-41BE-A82C-3CF1CB4F6D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8DD2C3-DB99-41BE-A82C-3CF1CB4F6D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8DD2C3-DB99-41BE-A82C-3CF1CB4F6D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8DD2C3-DB99-41BE-A82C-3CF1CB4F6D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0693D833-6263-42F9-B4AA-1D58787A52E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0693D833-6263-42F9-B4AA-1D58787A52E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0693D833-6263-42F9-B4AA-1D58787A52E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0693D833-6263-42F9-B4AA-1D58787A52E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B58EF972-FD04-43E0-8D75-539EE66A9B2F}
+	EndGlobalSection
+EndGlobal
